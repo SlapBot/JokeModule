@@ -1,6 +1,6 @@
 # Joke Module
 
-This is a joke module which fetches some jokes from  www.goodbadjokes.com and speaks it out through Stephanie.
+This is a joke module which fetches some jokes from  www.goodbadjokes.com and speaks it out through [Stephanie](https://www.slapbot.github.io).
 
 ### Setting Up
 
